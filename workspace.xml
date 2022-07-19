@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d298380d-fb45-479c-b935-a73c2b520c77" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="28fTQR4v7ar5ivjfbaOlyr5uOgM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Avishev\IdeaProjects\untitled5\.idea\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="i.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled5/i.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.i.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d298380d-fb45-479c-b935-a73c2b520c77" name="Changes" comment="" />
+      <created>1651606625849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651606625849</updated>
+      <workItem from="1651606626951" duration="6290000" />
+      <workItem from="1651612954448" duration="1168000" />
+      <workItem from="1651806294362" duration="1939000" />
+      <workItem from="1652293719695" duration="19000" />
+      <workItem from="1652862688281" duration="5549000" />
+      <workItem from="1652869732499" duration="472000" />
+      <workItem from="1653025865807" duration="4920000" />
+      <workItem from="1653454078285" duration="3724000" />
+      <workItem from="1653464238184" duration="2094000" />
+      <workItem from="1653584738365" duration="7601000" />
+      <workItem from="1653615004619" duration="2751000" />
+      <workItem from="1653628457002" duration="1335000" />
+      <workItem from="1658255657361" duration="1124000" />
+      <workItem from="1658256928998" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
